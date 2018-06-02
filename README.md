@@ -1,2 +1,1 @@
-# tdd_motivationpoker
-TDD Motivation Poker
+# TDD Motivation Poker
